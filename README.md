@@ -1,6 +1,6 @@
-<h1 align="center">Nonprofit Portfolio Website Design</h1>
+<h1 align="center">Nonprofit Website Design</h1>
 
-The portfolio site was created for a fiction author.  
+The portfolio site was created for a nonprofit organization.  
 
 # Features
 - Hidden navigation menu
