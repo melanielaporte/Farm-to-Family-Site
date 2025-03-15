@@ -55,5 +55,5 @@ Check out the live site here: **[GitHub Repository](https://github.com/melaniela
 - **Frontend:** HTML, CSS, JavaScript  
 - **Design:** Figma  
 
-## 📜 License  
+## License  
 This project is licensed under the MIT License. See the LICENSE file for more details.  
